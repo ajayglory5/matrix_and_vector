@@ -1,4 +1,4 @@
-# read_file_and_sort
+# matrix_and_vector
 This is a C++ program, that has two class. One class is a matrix class while another is a vector class. These classes supports the following:
 * Cross product of two vectors
 * Product of two given matrix
