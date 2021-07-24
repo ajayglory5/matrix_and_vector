@@ -23,6 +23,11 @@ cd build
 cmake ../
 make
 ```
+* You may have to do the following steps if cmake command above fails:
+```
+git submodule init
+git submodule update
+```
 
 * To execute the unit testcases, run the following command:
 ```
